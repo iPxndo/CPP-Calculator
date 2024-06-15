@@ -1,11 +1,13 @@
 This is my first C++ Project!
 
-This is v1 of my C++ calculator
+CURRENT VERSION = V1
 
-In Future i will attempt to add:
-    - Multiplaction
-    - Division
-    - Square Root 
-    - Indices
+Patch Notes:
+
+Future Plans:
+  - Multiplaction
+  - Division
+  - Square Root 
+  - Indices
 
 
