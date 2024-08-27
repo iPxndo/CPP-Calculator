@@ -4,22 +4,22 @@ using namespace std;
 
 int main() {
     
-//Defining Variables
+    // Defining Variables
     int num1, num2, answer;
     
-//User Inputs
+    // User Inputs
     cout << "Enter First Number: ";
     cin >> num1;
     
     cout << "Enter Second Number: ";
     cin >> num2;    
 
-//Choosing Operation
+    // Choosing Operation
     string op;
     cout << "Addition or Subtraction: ";
     cin >> op;
     
-//Addition
+    // Addition
     if (op == "Addition") {
         
         answer = num1 + num2;
@@ -28,7 +28,7 @@ int main() {
         
     }
 
-//Subtraction
+    // Subtraction
     if (op == "Subtraction") {
         
         answer = num1 - num2;
